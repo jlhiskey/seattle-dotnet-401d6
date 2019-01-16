@@ -1,0 +1,37 @@
+﻿using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        enum Movie {
+            Braveheart,
+            StarWarsIV,
+            StarWarsV
+        };
+
+        enum CatsWeLove {
+            Gregor,
+            Hound,
+            KhalDrogo
+        };
+
+        enum Genre {
+            Horror,
+            Comedy,
+            Drama,
+            Adventure
+        };
+
+        static void Main(string[] args)
+        {
+            PrintMovieInformation(Movie.StarWarsIV, Genre.Adventure);
+        }
+
+        static void PrintMovieInformation(Movie movieName, Genre movieGenre)
+        {
+            Console.WriteLine(movieName);
+            Console.WriteLine(movieGenre);
+        }
+    }
+}
