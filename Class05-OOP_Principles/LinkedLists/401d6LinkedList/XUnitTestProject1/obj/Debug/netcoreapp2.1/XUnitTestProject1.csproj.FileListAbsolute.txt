@@ -1,0 +1,17 @@
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\bin\Debug\netcoreapp2.1\401d6LinkedList.dll
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\bin\Debug\netcoreapp2.1\401d6LinkedList.pdb
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb

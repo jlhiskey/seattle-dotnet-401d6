@@ -1,20 +1,25 @@
 ﻿namespace _401d6LinkedList.Classes
 {
-    class LList
+   public class LList
     {
         public Node Head { get; set; }
-        public Node Current { get; set; }
+        public Node Current { get; set; } // by default null
 
-        //public LList(Node node)
-        //{
-        //    Head = node;
-        //}
+        public LList()
+        {
+
+        }
+        public LList(Node node)
+        {
+            Head = node;
+        }
 
         public void Insert(int value)
         {
             Node silly = new Node(value);
             silly.Next = Head;
             Head = silly;
+            Current = Head;
         }
 
         public bool Includes(int value)
@@ -60,6 +65,8 @@
 
         public void Append(int value)
         {
+            // Current = Head;
+            
             while (Current.Next != null)
             {
                 Current = Current.Next;
