@@ -1,0 +1,11 @@
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\bin\Debug\netcoreapp2.1\FactoryPizzaDemo.deps.json
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\bin\Debug\netcoreapp2.1\FactoryPizzaDemo.runtimeconfig.json
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\bin\Debug\netcoreapp2.1\FactoryPizzaDemo.runtimeconfig.dev.json
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\bin\Debug\netcoreapp2.1\FactoryPizzaDemo.dll
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\bin\Debug\netcoreapp2.1\FactoryPizzaDemo.pdb
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\obj\Debug\netcoreapp2.1\FactoryPizzaDemo.csprojAssemblyReference.cache
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\obj\Debug\netcoreapp2.1\FactoryPizzaDemo.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\obj\Debug\netcoreapp2.1\FactoryPizzaDemo.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\obj\Debug\netcoreapp2.1\FactoryPizzaDemo.AssemblyInfo.cs
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\obj\Debug\netcoreapp2.1\FactoryPizzaDemo.dll
+C:\Users\amand\source\repos\FactoryPizzaDemo\FactoryPizzaDemo\obj\Debug\netcoreapp2.1\FactoryPizzaDemo.pdb
