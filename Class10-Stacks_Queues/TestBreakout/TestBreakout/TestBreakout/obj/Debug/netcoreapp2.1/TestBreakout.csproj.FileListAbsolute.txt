@@ -1,0 +1,11 @@
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\bin\Debug\netcoreapp2.1\TestBreakout.deps.json
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\bin\Debug\netcoreapp2.1\TestBreakout.runtimeconfig.json
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\bin\Debug\netcoreapp2.1\TestBreakout.runtimeconfig.dev.json
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\bin\Debug\netcoreapp2.1\TestBreakout.dll
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\bin\Debug\netcoreapp2.1\TestBreakout.pdb
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\obj\Debug\netcoreapp2.1\TestBreakout.csprojAssemblyReference.cache
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\obj\Debug\netcoreapp2.1\TestBreakout.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\obj\Debug\netcoreapp2.1\TestBreakout.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\obj\Debug\netcoreapp2.1\TestBreakout.AssemblyInfo.cs
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\obj\Debug\netcoreapp2.1\TestBreakout.dll
+C:\Users\amand\source\repos\TestBreakout\TestBreakout\obj\Debug\netcoreapp2.1\TestBreakout.pdb

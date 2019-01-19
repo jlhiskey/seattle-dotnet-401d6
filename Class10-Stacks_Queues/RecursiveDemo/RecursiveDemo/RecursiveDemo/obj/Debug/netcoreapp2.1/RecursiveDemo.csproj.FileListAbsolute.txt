@@ -1,0 +1,11 @@
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\bin\Debug\netcoreapp2.1\RecursiveDemo.deps.json
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\bin\Debug\netcoreapp2.1\RecursiveDemo.runtimeconfig.json
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\bin\Debug\netcoreapp2.1\RecursiveDemo.runtimeconfig.dev.json
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\bin\Debug\netcoreapp2.1\RecursiveDemo.dll
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\bin\Debug\netcoreapp2.1\RecursiveDemo.pdb
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\obj\Debug\netcoreapp2.1\RecursiveDemo.csprojAssemblyReference.cache
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\obj\Debug\netcoreapp2.1\RecursiveDemo.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\obj\Debug\netcoreapp2.1\RecursiveDemo.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\obj\Debug\netcoreapp2.1\RecursiveDemo.AssemblyInfo.cs
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\obj\Debug\netcoreapp2.1\RecursiveDemo.dll
+C:\Users\amand\source\repos\RecursiveDemo\RecursiveDemo\obj\Debug\netcoreapp2.1\RecursiveDemo.pdb
