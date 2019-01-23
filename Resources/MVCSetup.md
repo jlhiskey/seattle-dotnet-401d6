@@ -9,7 +9,7 @@ Below are the directions to scaffold out a bare minimum MVC project for class 11
 4. Select Empty for the type of web application.
 5. Leave everything else as is, and select OK.
 6. Go to Startup.cs
-7. In `ConfigureServices()` add the appropriate middleware `services.AddMVC()`
+7. In `ConfigureServices()` add the appropriate middleware `services.AddMvc()`
 8. In `Configure()` add HTTP Pipeline route requirements
 
 ```
