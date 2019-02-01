@@ -1,0 +1,14 @@
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\bin\Debug\netcoreapp2.2\MusicPlayerAPI.deps.json
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\bin\Debug\netcoreapp2.2\MusicPlayerAPI.runtimeconfig.json
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\bin\Debug\netcoreapp2.2\MusicPlayerAPI.runtimeconfig.dev.json
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\bin\Debug\netcoreapp2.2\MusicPlayerAPI.dll
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\obj\Debug\netcoreapp2.2\MusicPlayerAPI.csprojAssemblyReference.cache
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\obj\Debug\netcoreapp2.2\MusicPlayerAPI.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\obj\Debug\netcoreapp2.2\MusicPlayerAPI.RazorAssemblyInfo.cache
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\obj\Debug\netcoreapp2.2\MusicPlayerAPI.RazorAssemblyInfo.cs
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\obj\Debug\netcoreapp2.2\MusicPlayerAPI.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\obj\Debug\netcoreapp2.2\MusicPlayerAPI.AssemblyInfo.cs
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\obj\Debug\netcoreapp2.2\MusicPlayerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\bin\Debug\netcoreapp2.2\MusicPlayerAPI.pdb
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\obj\Debug\netcoreapp2.2\MusicPlayerAPI.dll
+C:\Users\amand\source\repos\MusicPlayerAPI\MusicPlayerAPI\obj\Debug\netcoreapp2.2\MusicPlayerAPI.pdb
