@@ -52,7 +52,7 @@ Implement a method `string[] GenerateBalancedParethesesCombinations(int n)` that
 ##### Examples
 ```
 n=1
-abes"{}"]
+"{}"]
 
 n=2
 ["{}{}","{{}}"]
