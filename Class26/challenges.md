@@ -6,7 +6,7 @@
 - Select and complete enough code challenges to accumulate 10 points. (or more!)
 - Every challenge is worth a specified amount of points related to its complexity.
 - Follow the traditional whiteboard proccess and submission instructions in order to plan and prepare to code each challenge.
-    - If you don't have a whiteboard at hand, you can submit a picture of a drawing in a piece of paper.
+    - If you don't have a whiteboard at hand, you can submit a picture of a drawing on a piece of paper.
     - Include unit tests with your code submissions. (At least 2 tests per challenge)
 - The problem statements are in cases vague in order for you to clarify your understanding of the problem with your instructional team.
 
