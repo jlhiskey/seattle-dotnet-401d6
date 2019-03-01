@@ -1,0 +1,11 @@
+﻿@model List<BlogPostCMS.Models.Post>
+
+
+<div style="background-color: green">
+    <h1>Top 3 Articles In the Database</h1>
+    @foreach (var item in Model)
+    {
+        <h3>@item.ID. @item.Title</h3>
+        <p>@item.Description</p>
+    }
+</div>
