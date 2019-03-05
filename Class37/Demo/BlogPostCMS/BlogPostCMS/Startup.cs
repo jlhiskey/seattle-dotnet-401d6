@@ -49,6 +49,11 @@ namespace BlogPostCMS
 
 
             });
+
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("AdminOnly", policy => policy.RequireRole(ApplicationRoles.Admin));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

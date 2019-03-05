@@ -13095,11 +13095,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class38\\BlogPostCMS\\BlogPostCMS\\BlogPostCMS.csproj",
+      "projectUniqueName": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class39\\BlogPostCMS\\BlogPostCMS\\BlogPostCMS.csproj",
       "projectName": "BlogPostCMS",
-      "projectPath": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class38\\BlogPostCMS\\BlogPostCMS\\BlogPostCMS.csproj",
+      "projectPath": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class39\\BlogPostCMS\\BlogPostCMS\\BlogPostCMS.csproj",
       "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class38\\BlogPostCMS\\BlogPostCMS\\obj\\",
+      "outputPath": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class39\\BlogPostCMS\\BlogPostCMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

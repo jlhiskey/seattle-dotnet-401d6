@@ -3121,6 +3121,19 @@
           }
         }
       },
+      "Sendgrid/9.10.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": "1.1.2",
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/SendGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SendGrid.dll": {}
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -8399,6 +8412,26 @@
         "version.txt"
       ]
     },
+    "Sendgrid/9.10.0": {
+      "sha512": "G8CYo0oPP/on1D3QNfU27GMLCEUIii8/nGTLGnbmrddrRaRShdxpCHWZhxr02cwZDwAsx0WBCi+IjbJ+DpQo0A==",
+      "type": "package",
+      "path": "sendgrid/9.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/SendGrid.dll",
+        "lib/net452/SendGrid.pdb",
+        "lib/net452/SendGrid.xml",
+        "lib/netstandard1.3/SendGrid.dll",
+        "lib/netstandard1.3/SendGrid.pdb",
+        "lib/netstandard1.3/SendGrid.xml",
+        "lib/netstandard2.0/SendGrid.dll",
+        "lib/netstandard2.0/SendGrid.pdb",
+        "lib/netstandard2.0/SendGrid.xml",
+        "sendgrid.9.10.0.nupkg.sha512",
+        "sendgrid.nuspec"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "xXLr9ZKYH60b3ap2k8xqeEmDOa9HrI1ikEo/Zxg+cyDpAPiqtjNOz0gSeauVk6ByVLW+SPk337gkn9Q1MFM+fQ==",
       "type": "package",
@@ -12937,7 +12970,8 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.0"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.0",
+      "SendGrid >= 9.10.0"
     ]
   },
   "packageFolders": {
@@ -12947,11 +12981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class34\\Demo\\BlogPostCMS\\BlogPostCMS\\BlogPostCMS.csproj",
+      "projectUniqueName": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class37\\Demo\\BlogPostCMS\\BlogPostCMS\\BlogPostCMS.csproj",
       "projectName": "BlogPostCMS",
-      "projectPath": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class34\\Demo\\BlogPostCMS\\BlogPostCMS\\BlogPostCMS.csproj",
+      "projectPath": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class37\\Demo\\BlogPostCMS\\BlogPostCMS\\BlogPostCMS.csproj",
       "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class34\\Demo\\BlogPostCMS\\BlogPostCMS\\obj\\",
+      "outputPath": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class37\\Demo\\BlogPostCMS\\BlogPostCMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13001,6 +13035,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[2.2.0, )"
+          },
+          "SendGrid": {
+            "target": "Package",
+            "version": "[9.10.0, )"
           }
         },
         "imports": [

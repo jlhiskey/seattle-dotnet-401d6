@@ -58,6 +58,12 @@ namespace BlogPostCMS.Controllers
 
                     await _userManager.AddClaimsAsync(user, claims);
 
+                    // Assign that user to a role
+                    if (user.Email == "amanda@codefellows.com")
+                    {
+                        await _userManager.AddToRoleAsync(user, ApplicationRoles.Admin);
+                    }
+
                     await _signInManager.SignInAsync(user, isPersistent: false);
                     return RedirectToAction("Index", "Home");
 
@@ -82,7 +88,20 @@ namespace BlogPostCMS.Controllers
 
                 if (result.Succeeded)
                 {
+                    var user = await _userManager.FindByEmailAsync(lvm.Email);
+                    if (await _userManager.IsInRoleAsync(user, ApplicationRoles.Admin))
+                    {
+                        return RedirectToPage("Index", "Admin");
+
+                    }
+
                     return RedirectToAction("Index", "Home");
+
+                    // email to notify user of login is here!
+                    // ----
+                    // Add user to the admin role Here:
+
+
                 }
             }
 
