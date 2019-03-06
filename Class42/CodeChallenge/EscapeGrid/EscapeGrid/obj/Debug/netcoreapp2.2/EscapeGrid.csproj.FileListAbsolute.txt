@@ -1,0 +1,11 @@
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\bin\Debug\netcoreapp2.2\EscapeGrid.deps.json
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\bin\Debug\netcoreapp2.2\EscapeGrid.runtimeconfig.json
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\bin\Debug\netcoreapp2.2\EscapeGrid.runtimeconfig.dev.json
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\bin\Debug\netcoreapp2.2\EscapeGrid.dll
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\bin\Debug\netcoreapp2.2\EscapeGrid.pdb
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\obj\Debug\netcoreapp2.2\EscapeGrid.csprojAssemblyReference.cache
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\obj\Debug\netcoreapp2.2\EscapeGrid.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\obj\Debug\netcoreapp2.2\EscapeGrid.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\obj\Debug\netcoreapp2.2\EscapeGrid.AssemblyInfo.cs
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\obj\Debug\netcoreapp2.2\EscapeGrid.dll
+C:\Users\amand\source\repos\EscapeGrid\EscapeGrid\obj\Debug\netcoreapp2.2\EscapeGrid.pdb
