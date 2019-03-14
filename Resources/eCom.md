@@ -1,6 +1,6 @@
 # E-Com projects
 
-Rubric located [Here](Rubric.md)
+Rubric located [Here](/Resources/Rubric.md)
 
 ### Refresh Foods
 **Azure Site**: https://refreshfoods.azurewebsites.net
