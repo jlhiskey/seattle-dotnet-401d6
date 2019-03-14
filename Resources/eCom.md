@@ -42,7 +42,7 @@ Rubric located [Here](Rubric)
 
 **Repo**: https://xljlecommercedotnetv2.azurewebsites.net/
 
-### GoodToyes: Mike F/Jason F
+### GoodToyes:
 **Azure Site**: https://goodtoyes.azurewebsites.net/
 
 **Repo**: https://github.com/omence/GoodToyes
